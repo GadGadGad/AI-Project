@@ -22,7 +22,7 @@
 * **Mã môn học:** CS106
 * **Mã lớp:** CS106.O22
 * **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: TS Lương Ngọc Hoàng
+* **Giảng viên**: TS. Lương Ngọc Hoàng
 # ĐỒ ÁN CUỐI KÌ
 * **Đề tài:** Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy
 # TÀI LIỆU THAM KHẢO
