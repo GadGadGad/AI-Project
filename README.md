@@ -13,7 +13,7 @@
 | STT    | MSSV          | Họ và Tên              |Phân công    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 22521027      | Tăng Nhất         |Code|[GadGadGad](https://github.com/GadGadGad)  |22521027@gm.uit.edu.vn   |
-| 2      | 22521058      | Nguyễn Thị Hồng Nhung         |Code|[NhungNguyen04](NhungNguyen04) |22521058@gm.uit.edu.vn   |
+| 2      | 22521058      | Nguyễn Thị Hồng Nhung         |Code|[NhungNguyen04](github.com/NhungNguyen04) |22521058@gm.uit.edu.vn   |
 | 3      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
 | 4      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
 
