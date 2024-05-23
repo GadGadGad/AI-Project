@@ -26,3 +26,4 @@
 # ĐỒ ÁN CUỐI KÌ
 * **Đề tài:** Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy
 # TÀI LIỆU THAM KHẢO
+* **[Deep Reinforcement Learning Approach for Stock Trading](./References/Deep%20Reinforcement%20Learning%20Approach%20for%20Stock%20Trading.pdf)
