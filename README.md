@@ -13,17 +13,16 @@
 | STT    | MSSV          | Họ và Tên              |Phân công    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 22521027      | Tăng Nhất         |Code|[GadGadGad](https://github.com/GadGadGad)  |22521027@gm.uit.edu.vn   |
-| 2      | 22521058      | Nguyễn Thị Hồng Nhung         |Code|[NhungNguyen04](github.com/NhungNguyen04) |22521058@gm.uit.edu.vn   |
+| 2      | 2252xxxx     | xx        |Code|[]() |22521058@gm.uit.edu.vn   |
 | 3      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
 | 4      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
 
 # GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Trí tuệ nhân tạo
-* **Mã môn học:** CS106
-* **Mã lớp:** CS106.O22
+* **Tên môn học:** Lập Trình Python cho Máy Học
+* **Mã môn học:** CS116
+* **Mã lớp:** CS116.O22
 * **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: TS. Lương Ngọc Hoàng
+* **Giảng viên**: Nguyễn Đức Vũ
 # ĐỒ ÁN CUỐI KÌ
-* **Đề tài:** Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy
+* **Đề tài:** 
 # TÀI LIỆU THAM KHẢO
-* **[Deep Reinforcement Learning Approach for Stock Trading](./References/Deep%20Reinforcement%20Learning%20Approach%20for%20Stock%20Trading.pdf)
