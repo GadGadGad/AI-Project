@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>Trí tuệ nhân tạo - CS106.O22 </b></h1>
+<h1 align="center"><b>Trí Tuệ Nhân Tạo - CS106.O22 </b></h1>
 
 <hr>
 
@@ -18,11 +18,13 @@
 | 4      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
 
 # GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Lập Trình Python cho Máy Học
-* **Mã môn học:** CS116
-* **Mã lớp:** CS116.O22
+* **Tên môn học:** Trí Tuệ Nhân Tạo
+* **Mã môn học:** CS106
+* **Mã lớp:** CS106.O22
 * **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: Nguyễn Đức Vũ
+* **Giảng viên**: TS. Lương Ngọc Hoàng
 # ĐỒ ÁN CUỐI KÌ
-* **Đề tài:** 
+* **Đề tài:** Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy
 # TÀI LIỆU THAM KHẢO
+* [Deep Reinforcement Learning Approach for Stock Trading](<References/Deep Reinforcement Learning Approach for Stock Trading.pdf>)
+* [Deep Reinforcement Learning for Automated Stock Trading An Ensemble Strategy](<References/Deep Reinforcement Learning for Automated Stock Trading An Ensemble Strategy.pdf>)
