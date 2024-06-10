@@ -14,7 +14,7 @@
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 22521027      | Tăng Nhất         |Code|[GadGadGad](https://github.com/GadGadGad)  |22521027@gm.uit.edu.vn   |
 | 2      | 22521058      | Nguyễn Thị Hồng Nhung         |Code|[NhungNguyen04](github.com/NhungNguyen04) |22521058@gm.uit.edu.vn   |
-| 3      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
+| 3      | 22521070      | Lưu Đoàn Ngọc Phát         |Code|[LuuDoanNgocPhat123](https://github.com/LuuDoanNgocPhat123)  |22521070@gm.uit.edu.vn   |
 | 4      | 2252xxxx      | xxx         |Code|[]()  |2252xxxx@gm.uit.edu.vn   |
 
 # GIỚI THIỆU MÔN HỌC
