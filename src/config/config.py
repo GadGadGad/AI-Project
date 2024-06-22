@@ -8,14 +8,14 @@ TENSORBOARD_LOG_DIR = "tensorboard_log/"
 RESULTS_DIR = "results/"
 
 # date format: '%Y-%m-%d'
-TRAIN_START_DATE = "2018-01-01"  
+TRAIN_START_DATE = "2015-01-01"  
 TRAIN_END_DATE = "2020-01-01"
 
 TEST_START_DATE = "2020-01-01"
 TEST_END_DATE = "2022-01-01"
 
 TRADE_START_DATE = "2022-01-01"
-TRADE_END_DATE = "2024-01-01"
+TRADE_END_DATE = "2024-06-01"
 
 # stockstats technical indicator column names
 # check https://pypi.org/project/stockstats/ for different names
